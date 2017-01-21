@@ -79,4 +79,4 @@ Note that if a portal or a wall spans two monitors with different adjustment rat
 
 ## Compiling
 
-    cl screenportals.cpp user32.lib
+    cl src\screenportals.cpp user32.lib
